@@ -9,7 +9,7 @@
       "name": "muggle-axon",
       "description": "Self-Service App Federation Portal — explore the product, engagement models, roadmap, and Axon First alignment from your agent.",
       "version": "0.1.0",
-      "author": "Gesherna LLC",
+      "author": { "name": "Gesherna LLC", "email": "muesteve@grayfox.media" },
       "source": "./",
       "category": "productivity"
     }
