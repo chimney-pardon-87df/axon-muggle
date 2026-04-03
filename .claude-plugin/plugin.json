@@ -1,0 +1,23 @@
+{
+  "name": "muggle-axon",
+  "version": "0.1.0",
+  "description": "Self-Service App Federation Portal — AI-native sales package from Gesherna. Explore the product, compare engagement models, review the roadmap, and understand how this aligns with Axon First — all from your agent.",
+  "author": {
+    "name": "Gesherna LLC",
+    "email": "muesteve@grayfox.media"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vader",
+    "gesherna",
+    "axon",
+    "muggle",
+    "federation",
+    "sso",
+    "okta",
+    "identity",
+    "sales-enablement",
+    "ai-native",
+    "vader-package"
+  ]
+}
