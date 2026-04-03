@@ -9,7 +9,7 @@ A Vader package from Gesherna LLC (working name — pending formation in Nevada,
 ## Installation
 
 ```
-/plugin marketplace add gesherna/axon-muggle
+/plugin marketplace add chimney-pardon-87df/axon-muggle
 /plugin install muggle-axon --scope local
 ```
 
